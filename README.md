@@ -62,7 +62,9 @@ These datasets help analyze business performance from multiple perspectives.
 👉 Full SQL queries available in:
 `SQL/analysis_queries.sql`
 
----
+## 🗺️ ER Diagram
+
+![ER Diagram](ER_digram.png)
 
 ### 📊 Data Visualization (Power BI)
 
