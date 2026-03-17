@@ -74,21 +74,17 @@ These datasets help analyze business performance from multiple perspectives.
 
 ## 📊 Dashboards
 
-### 1️⃣ Executive Overview
+### Executive Overview
+![Dashboard1](dashboard1.png)
 
-![Dashboard1](Images/dashboard1.png)
+### Customer Insights
+![Dashboard2](dashboard2.png)
 
-### 2️⃣ Customer Insights
+### Seller Performance
+![Dashboard3](dashboard3.png)
 
-![Dashboard2](Images/dashboard2.png)
-
-### 3️⃣ Seller Performance
-
-![Dashboard3](Images/dashboard3.png)
-
-### 4️⃣ Delivery & Satisfaction
-
-![Dashboard4](Images/dashboard4.png)
+### Delivery & Satisfaction
+![Dashboard4](dashboard4.png)
 
 ---
 
